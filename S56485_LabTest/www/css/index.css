@@ -5,6 +5,10 @@
 
 body{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background:rgb(143, 180, 214);
+  background-image: url('../img/bg1.jpg');
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 .navbar {
